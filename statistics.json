@@ -1,28 +1,5 @@
-{"Statistics":[
-	{"type":"Hong Kong Population", "value":"Dependent Children of Single Parents"},
-	{"type":"Hong Kong Population", "value":"Economically active population"},
-	{"type":"Hong Kong Population", "value":"Economically inactive population"},
-	{"type":"Hong Kong Population", "value":"Employees with secondary employment"},
-	{"type":"Hong Kong Population", "value":"Ethnic Minorities"},
-	{"type":"Hong Kong Population", "value":"Ever married persons living with child(ren) aged under 18"},
-	{"type":"Hong Kong Population", "value":"Ever married working women"},
-	{"type":"Hong Kong Population", "value":"Hong Kong resident population"},
-	{"type":"Hong Kong Population", "value":"Hong Kong resident population (land)"},
-	{"type":"Hong Kong Population", "value":"Hong Kong resident population aged 5+"},
-	{"type":"Hong Kong Population", "value":"Hong Kong resident population studying full-time"},
-	{"type":"Hong Kong Population", "value":"Labour force of single parents"},
-	{"type":"Hong Kong Population", "value":"Mobile residents"},
-	{"type":"Hong Kong Population", "value":"Working older persons population aged 60+"},
-	{"type":"Hong Kong Population", "value":"Working population"},
-	{"type":"Hong Kong Population", "value":"Working Single Parents"},
-	{"type":"Hong Kong Population", "value":"Youths"},
-	{"type":"Domestic Households", "value":"Domestic households"},
-	{"type":"Domestic Households", "value":"Domestic households (land)"},
-	{"type":"Domestic Households", "value":"Domestic households (marine)"},
-	{"type":"Domestic Households", "value":"Domestic households with youths"},
-	{"type":"Miscellaneous", "value":"Median monthly household mortgage payment and loan repayment"},
-	{"type":"Miscellaneous", "value":"Median monthly household rent"},
-	{"type":"Miscellaneous", "value":"Median monthly income from main employment"},
-	{"type":"Miscellaneous", "value":"Median mortgage payment and loan repayment to income ratio"},
-	{"type":"Miscellaneous", "value":"Occupied quarters (land)"},
-]}
+{
+"one": "Singular sensation",
+"two": "Beady little eyes",
+"three": "Little birds pitch by my doorstep"
+}
