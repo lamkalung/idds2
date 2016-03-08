@@ -1,0 +1,60 @@
+{
+"Demographic": {
+		"Age (AGE)": "",
+		"Duration of Residence in Hong Kong": "",
+		"Language": "",
+		"Marital status (MARIT)": "",
+		"Nationality": "",
+		"New arrivals": "",
+		"Number of Languages Spoken": "",
+		"Place of Birth": "",
+		"Sex": "",
+		"Single parent (SINGLE)": "",
+		"Usual language (LANG1)": "",
+		"Whether able to speak Cantonese (CANTONESE)": "",
+		"Whether able to speak English (ENGLISH)": ""
+		},
+"Economic": {
+		"Economic activity status (ACTIV)": "",
+		"Industry V2.0 (INDUST)": "",
+		"Occupation V2008 (OCCUP)": "",
+		"Whether available for work (AVAIL)": ""
+		},
+"Educational": {
+		"Education": "",
+		"Educational attainment (highest level attended) (DEDUCN)": "",
+		"Educational Attainment (Highest Level Completed)": "",
+		"Field of education (highest level attended)": "",
+		"Field of Education (Highest Level Completed)": ""
+		},
+"Geographical": {
+		"Area of current residence (DN)": "",
+		"District Council district (DC)": "",
+		"District Council/Constituency area (DCCA)": ""
+		},
+"Household": {
+		"Household composition (HHCOMP11)": "",
+		"Household size (UHSIZE)": "",
+		"Monthly domestic household income (DJHHINC)": "",
+		"Number of children aged under 15 in household (CHILD15)": "",
+		"Number of children aged under 18 (CHILD18)": "",
+		"Whether has son/daughter in the household (CHILD)": ""
+		},
+"Housing": {
+		"Monthly domestic household rent (NRENT)": "",
+		"Number of bedrooms (BROOM)": "",
+		"Number of bedrooms/other rooms (BOROOM)": "",
+		"Number of bedspaces (BEDSPACE)": "",
+		"Number of occupants in the quarters": "",
+		"Type of accommodation (ACCOM)": "",
+		"Type of housing": "",
+		"Type of quarters (QRTYP)": ""
+		},
+"Housing": {
+		"Number of domestic households in quarters": "",
+		"Total amount of time spending in Mainland of China - past six months (SMCN)": "",
+		"Whether able to speak Cantonese (CANTONESE)": "",
+		"Whether able to speak English (ENGLISH)": "",
+		"Whether internal migrated household": ""
+		}
+}
